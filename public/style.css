@@ -1,0 +1,9 @@
+.picture
+{
+	width: 800px;
+	height: 600px;
+}
+.centrePicture{
+	vertical-align: middle;
+	margin: 50px;
+}
